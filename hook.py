@@ -1,1 +1,1 @@
-print{"lets check this guys"}
+print{"lets check"}
